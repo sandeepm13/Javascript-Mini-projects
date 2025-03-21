@@ -1,14 +1,14 @@
-# JavaScript Mini-Projects
+🛠️🚀 # JavaScript Mini-Projects
 
 As part of my **MERN Stack learning journey**, I have learned **HTML, CSS, and JavaScript**. To enhance my hands-on experience and build a strong foundation, I decided to work on **mini projects** using these technologies. These projects will help me improve my skills, understand core concepts better, and gain practical experience in **front-end development**.
 
 In a structured way to gain hands-on experience, I started creating and working on **mini projects** that focus on different aspects of JavaScript and web development.
 
-## Tasks
+## 📌 Tasks
 - [Task 1: Calculator](#task-1-calculator)(#task-1-simple-calculator)
 - [Task 2: Password Generator](#task-2-password-generator)(#task-2-random-password-generator)
 
-## How to Use
+## 🛠️ How to Use
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/javascript-mini-projects.git
@@ -16,9 +16,9 @@ In a structured way to gain hands-on experience, I started creating and working 
 2. Open the desired project folder.
 3. Run `index.html` in your browser.
 
-## Projects
+## 🚀 Projects
 
-### Task 1: Calculator
+### 🔢 Task 1: Calculator
 A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
 #### Features:
@@ -32,7 +32,7 @@ A basic calculator that performs arithmetic operations like addition, subtractio
 - Manipulating the DOM to update the display.
 - Implementing calculation logic and using **string methods**.
 
-### Task 2: Password Generator
+### 🔑 Task 2: Password Generator
 A tool that generates secure random passwords with customizable length and characters.
 
 #### Features:

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PWD Generator</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div id="main">
+      <div id="container">
+        <h1>Password Generator</h1>
+        <div id="input">
+          <input type="value" id="passBox" value="none" />
+          <i class="fa-regular fa-copy" id="copyText"></i>
+          <i class="fa-solid fa-check" id="check"></i>
+        </div>
+        <div id="emsg"></div>
+        <div id="copied"></div>
+        <div id="range">
+          <input type="range" min="0" max="30" value="8" id="indicator" />
+        </div>
+        <div id="pLength">
+          <h4>Password Length</h4>
+          <p id="val"></p>
+        </div>
+        <div id="lowers" class="literals">
+          <label for="lower">Include lower case letters(a-z)</label>
+          <input type="checkbox" name="lower" id="lower" />
+        </div>
+        <div id="uppers" class="literals">
+          <label for="upper">Include upper case letters(A-Z)</label>
+          <input type="checkbox" name="upper" id="upper" />
+        </div>
+        <div id="numbers" class="literals">
+          <label for="number">Include numbers(0-9)</label>
+          <input type="checkbox" name="number" id="number" />
+        </div>
+        <div id="symbols" class="literals">
+          <label for="symbol">Include Special Characters(@#$/&)</label>
+          <input type="checkbox" name="symbol" id="symbol" />
+        </div>
+        <div id="btn">
+          <button id="generate">Generate Password</button>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

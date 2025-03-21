@@ -9,6 +9,19 @@ In a structured way to gain hands-on experience, I started creating and working 
 - [Task 2: Password Generator](#task-2-password-generator)(#task-2-random-password-generator)
 
 ## 🛠️ How to Use
+
+1. Install **Git** on your PC or laptop from [git-scm.com](https://git-scm.com/).
+2. Open **VS Code** (or any terminal of your choice).
+3. Initialize Git in your local directory:
+   ```sh
+   git init
+   ```
+4. Clone this repository using the following command:
+   ```sh
+   git clone https://github.com/your-username/javascript-mini-projects.git
+   ```
+5. Open the desired project folder.
+6. Run `index.html` in your browser.
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/javascript-mini-projects.git
@@ -49,4 +62,16 @@ A tool that generates secure random passwords with customizable length and chara
 - Implementing **clipboard copy functionality** using JavaScript events.
 - Improving user interaction with real-time password generation.
 
+## How to Use
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/javascript-mini-projects.git
+   ```
+2. Open the desired project folder.
+3. Run `index.html` in your browser.
 
+## 🔮 Future Projects
+
+- More JavaScript projects to improve hands-on experience.
+
+Feel free to explore the projects and suggest improvements! 🚀

@@ -57,16 +57,9 @@ A tool that generates secure random passwords with customizable length and chara
 - Implementing **clipboard copy functionality** using JavaScript events.
 - Improving user interaction with real-time password generation.
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/javascript-mini-projects.git
-   ```
-2. Open the desired project folder.
-3. Run `index.html` in your browser.
 
 ## 🔮 Future Projects
-
+- Coming soon Stay tuned
 - More JavaScript projects to improve hands-on experience.
 
-Feel free to explore the projects and suggest improvements! 🚀
+# Made with ❤️ by me.

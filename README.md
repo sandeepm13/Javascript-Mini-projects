@@ -22,12 +22,7 @@ In a structured way to gain hands-on experience, I started creating and working 
    ```
 5. Open the desired project folder.
 6. Run `index.html` in your browser.
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/javascript-mini-projects.git
-   ```
-2. Open the desired project folder.
-3. Run `index.html` in your browser.
+
 
 ## 🚀 Projects
 

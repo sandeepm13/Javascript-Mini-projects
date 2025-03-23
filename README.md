@@ -5,8 +5,9 @@ As part of my **MERN Stack learning journey**, I have learned **HTML, CSS, and J
 In a structured way to gain hands-on experience, I started creating and working on **mini projects** that focus on different aspects of JavaScript and web development.
 
 ## 📌 Tasks
-- [Task 1: Calculator](#task-1-calculator)(#task-1-simple-calculator)
-- [Task 2: Password Generator](#task-2-password-generator)(#task-2-random-password-generator)
+- [Task 1: Calculator](#task-1-calculator)(#task-1-calculator)
+- [Task 2: Password Generator](#task-2-password-generator)(#task-2-password-generator)
+- [Task 3: Analog Clock].(#task-3-analog-clock).(#task-3-analog-clock)
 
 ## 🛠️ How to Use
 
@@ -56,7 +57,32 @@ A tool that generates secure random passwords with customizable length and chara
 - Enhancing **DOM manipulation** for dynamic content updates.
 - Implementing **clipboard copy functionality** using JavaScript events.
 - Improving user interaction with real-time password generation.
+  
+### 🕰️ Task 3: Analog Clock
 
+A **real-time analog clock** built using **HTML, CSS, and JavaScript**. This project dynamically updates the clock hands based on the current time using JavaScript.
+
+## 🚀 Features
+
+✅ **Real-time updates** every second  
+✅ **Smooth animations** for hour, minute, and second hands  
+✅ **Minimal & modern UI design**  
+✅ **Fully responsive** for different screen sizes  
+✅ **Dark theme for an elegant look**  
+
+## 🛠️ Technologies Used
+
+- **HTML** for structuring the clock interface  
+- **CSS** for styling and animations  
+- **JavaScript** for fetching the current time and updating the clock hands  
+
+
+## 📌 How It Works
+
+1. The **JavaScript `Date()` object** fetches the current time.  
+2. The **hour, minute, and second hands** are updated dynamically using **CSS transformations**.  
+3. The clock refreshes **every second** to reflect real-time movement.  
+4. The UI is enhanced with **shadow effects and transparency** for a sleek look.  
 
 ## 🔮 Future Projects
 - Coming soon Stay tuned

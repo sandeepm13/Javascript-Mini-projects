@@ -5,9 +5,9 @@ As part of my **MERN Stack learning journey**, I have learned **HTML, CSS, and J
 In a structured way to gain hands-on experience, I started creating and working on **mini projects** that focus on different aspects of JavaScript and web development.
 
 ## 📌 Tasks
-- [Task 1: Calculator](#task-1-calculator)(#task-1-calculator)
-- [Task 2: Password Generator](#task-2-password-generator)(#task-2-password-generator)
-- [Task 3: Analog Clock].(#task-3-analog-clock).(#task-3-analog-clock)
+- [Task 1: Calculator](#task-1-calculator)
+- [Task 2: Password Generator](#task-2-password-generator)
+- [Task 3: Analog Clock](#task-3-analog-clock)
 
 ## 🛠️ How to Use
 
